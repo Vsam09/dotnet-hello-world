@@ -1,0 +1,15 @@
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/bin/Debug/net5.0/myDotNet.deps.json
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/bin/Debug/net5.0/myDotNet.runtimeconfig.json
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/bin/Debug/net5.0/myDotNet.runtimeconfig.dev.json
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/bin/Debug/net5.0/myDotNet.dll
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/bin/Debug/net5.0/ref/myDotNet.dll
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/bin/Debug/net5.0/myDotNet.pdb
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/obj/Debug/net5.0/myDotNet.csproj.AssemblyReference.cache
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/obj/Debug/net5.0/myDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/obj/Debug/net5.0/myDotNet.AssemblyInfoInputs.cache
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/obj/Debug/net5.0/myDotNet.AssemblyInfo.cs
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/obj/Debug/net5.0/myDotNet.csproj.CoreCompileInputs.cache
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/obj/Debug/net5.0/myDotNet.dll
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/obj/Debug/net5.0/ref/myDotNet.dll
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/obj/Debug/net5.0/myDotNet.pdb
+/Users/j.a.d/PrimeWork/TierThree/myDotNet/obj/Debug/net5.0/myDotNet.genruntimeconfig.cache
